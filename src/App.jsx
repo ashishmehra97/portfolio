@@ -1,4 +1,4 @@
-import './App.css'
+import "./styles/index.css";
 import Header from './component/Header'
 
 const App = ()=>{
